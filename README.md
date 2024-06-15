@@ -12,6 +12,9 @@ duplication of code in future projects.
 
 How to Install and Run:
 After downloading the files, they can then be compiled on Command line using:
+
     javac -d. *.java
-and then run on Command line usingL
+
+and then run on Command line using
+
     java LinkedListProject.java.
